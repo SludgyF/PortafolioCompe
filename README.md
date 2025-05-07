@@ -6,7 +6,7 @@ Soy un desarrollador de software con enfoque en frontend y conocimientos básico
 ## 🔎 Preferencias laborales
 - **Rol preferido**: Me especializo en el área de frontend, incluyendo desarrollo de páginas web y aplicaciones móviles. También estoy abierto a aprender otras áreas y trabajar con diferentes tecnologías.
 - **Modalidad**: Remoto, híbrido o presencial.
-- **Áreas de interés**: Principalmente frontend, pero tengo disposición para adquirir experiencia en otras áreas según las necesidades del proyecto.
+- **Áreas de interés**: Principalmente frontend, tambien tengo bastante interes en el area de videojuegos, pero tengo disposición para adquirir experiencia en otras áreas según las necesidades del proyecto.
 
 ## 🏆 Premios y hackatones
 - Participé en un hackatón en Monterrey en 2018, donde junto a mi equipo propusimos una página web orientada a ayudar a estudiantes foráneos. Esta experiencia me permitió aplicar conocimientos de desarrollo web, trabajo en equipo y presentación de propuestas tecnológicas.
@@ -55,7 +55,6 @@ Fogui fue mi primer proyecto web, una página sencilla que me motivó a seguir a
 **Lo que logré / desafíos**:  
 Aprendí los conceptos fundamentales de desarrollo web y cómo estructurar una página funcional. El principal desafío fue comprender el ciclo de vida del desarrollo de software y enfrentarme por primera vez a la resolución de problemas técnicos.
 
-**Link**: *(No disponible / proyecto no alojado actualmente)*
 
 ---
 
